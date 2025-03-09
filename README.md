@@ -1,65 +1,58 @@
-# Data Analysis Portfolio
+# Portfolio
 
 ## About Me  
-Hi! I'm **Medrona**, a Biochemistry graduate with a passion for data analysis.  
-I recently completed a **300-hour "Data Analysis with Python" certification** from FreeCodeCamp, where I worked on multiple projects involving **data cleaning, visualization, statistical modeling, and predictive analysis**.  
+Hi! I'm **Medrona**, a Biochemistry graduate with a strong interest in data analysis and machine learning.  
+I recently completed a **300-hour "Data Analysis with Python" certification** from FreeCodeCamp, where I applied **data cleaning, visualization, statistical modeling, and predictive analysis** in various projects.  
 
-This repository showcases my data analysis projects, including **Jupyter Notebooks, datasets, and visualizations**.
+This repository contains my **Python-based data analysis projects**, each demonstrating practical applications of **NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn**.
 
 ---
 
 ## 📌 Projects  
 
-### **1. Exploratory Data Analysis (EDA)**
-- Performed **data cleaning and wrangling** with **Pandas** and **NumPy**.
-- Used **Seaborn & Matplotlib** for **visualizing trends, correlations, and outliers**.
-- Applied **statistical techniques** to extract meaningful insights.
-
-📂 [Project Folder](./Exploratory-Data-Analysis/) | 📜 [Notebook](./Exploratory-Data-Analysis/EDA.ipynb)  
+### **1. Mean-Variance-Standard Deviation Calculator**  
+📂 [Project Folder](./Mean-Variance-Standard-Deviation-Calculator/) | 📜 [Notebook](./Mean-Variance-Standard-Deviation-Calculator/mvsd_calculator.ipynb)  
+- Implemented a function using **NumPy** to compute **mean, variance, standard deviation, min, max, and sum** along both axes of a 3x3 matrix.  
+- Optimized calculations with array operations instead of loops.  
 
 ---
 
-### **2. Medical Data Visualizer**
-- Analyzed patient health data (e.g., **BMI, cholesterol, blood pressure**).
-- Created **bar plots, histograms, and heatmaps** to visualize medical trends.
-- Used **data normalization** to standardize results.
-
-📂 [Project Folder](./Medical-Data-Visualizer/) | 📜 [Notebook](./Medical-Data-Visualizer/medical_visualizer.ipynb)  
-
----
-
-### **3. Page View Time Series Visualizer**
-- Processed **time series data** to analyze long-term web traffic trends.
-- Built **interactive line plots and box plots** to detect seasonality and anomalies.
-- Used **rolling averages** to smooth fluctuations.
-
-📂 [Project Folder](./Page-View-Time-Series/) | 📜 [Notebook](./Page-View-Time-Series/time_series_visualizer.ipynb)  
-
----
-
-### **4. Demographic Data Analyzer**
-- Queried demographic datasets using **SQL and Pandas**.
-- Conducted **group-by operations, aggregations, and comparisons**.
-- Analyzed **education levels, income distribution, and employment rates**.
-
+### **2. Demographic Data Analyzer**  
 📂 [Project Folder](./Demographic-Data-Analyzer/) | 📜 [Notebook](./Demographic-Data-Analyzer/demographic_analyzer.ipynb)  
+- Used **Pandas** to analyze U.S. Census data.  
+- Computed statistics on **education levels, employment rates, and race distribution**.  
+- Applied **group-by operations and aggregations** to extract insights.  
 
 ---
 
-### **5. Sea Level Predictor**
-- Built a **linear regression model** to predict future sea level rise.
-- Used **historical climate data** for trend forecasting.
-- Visualized **scatter plots and regression lines** with **Seaborn**.
+### **3. Medical Data Visualizer**  
+📂 [Project Folder](./Medical-Data-Visualizer/) | 📜 [Notebook](./Medical-Data-Visualizer/medical_visualizer.ipynb)  
+- Processed patient health data to identify trends in **BMI, cholesterol, and blood pressure**.  
+- Created **heatmaps, histograms, and categorical plots** for data comparison.  
+- Applied **data normalization** for better visualization.  
 
+---
+
+### **4. Page View Time Series Visualizer**  
+📂 [Project Folder](./Page-View-Time-Series/) | 📜 [Notebook](./Page-View-Time-Series/time_series_visualizer.ipynb)  
+- Processed **time series data** to track long-term web traffic trends.  
+- Used **rolling averages and line plots** to detect seasonal patterns.  
+- Created **box plots** to visualize daily, monthly, and yearly variations.  
+
+---
+
+### **5. Sea Level Predictor**  
 📂 [Project Folder](./Sea-Level-Predictor/) | 📜 [Notebook](./Sea-Level-Predictor/sea_level_predictor.ipynb)  
+- Built a **linear regression model** to predict future sea level rise.  
+- Used **historical climate data** and **Scikit-learn regression** for trend forecasting.  
+- Visualized results with **scatter plots and trend lines**.  
 
 ---
 
 ## 🔧 Tech Stack  
-- **Programming Languages:** Python, SQL  
+- **Languages:** Python, SQL  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Tools:** Jupyter Notebook, GitHub  
 
 ---
-
 

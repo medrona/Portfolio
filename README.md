@@ -25,7 +25,7 @@ This repository contains my **Python-based data analysis projects**, each demons
 
 ---
 
-### **3. [Medical Data Visualizer](./Medical-Data-Visualizer/)**  
+### **3. [Medical Data Visualizer](./Medical_data_visualizer/)**  
 📜 [Notebook](./Medical-Data-Visualizer/medical_data_visualizer.py)  
 - Processed patient health data to identify trends in **BMI, cholesterol, and blood pressure**.  
 - Created **heatmaps, histograms, and categorical plots** for data comparison.  

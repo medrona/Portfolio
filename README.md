@@ -11,7 +11,7 @@ This repository contains my **Python-based data analysis projects**, each demons
 ## 📌 Projects  
 
 ### **1. Mean-Variance-Standard Deviation Calculator**  
-📂 [Project Folder](./Mean-Variance-Standard-Deviation-Calculator/) | 📜 [Notebook](./Mean-Variance-Standard-Deviation-Calculator/mvsd_calculator.ipynb)  
+📂 [Project Folder](./Mean-Variance-Standard-Deviation-Calculator/) | 📜 [Notebook](./Mean-Variance-Standard-Deviation-Calculator/mean_var_std.py)  
 - Implemented a function using **NumPy** to compute **mean, variance, standard deviation, min, max, and sum** along both axes of a 3x3 matrix.  
 - Optimized calculations with array operations instead of loops.  
 

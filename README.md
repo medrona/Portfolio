@@ -1,4 +1,4 @@
-# Portfolio
+# Data Analysis Portfolio
 
 ## About Me  
 Hi! I'm **Medrona**, a Biochemistry graduate with a passion for data analysis.  
@@ -47,5 +47,19 @@ This repository showcases my data analysis projects, including **Jupyter Noteboo
 ---
 
 ### **5. Sea Level Predictor**
-- Built a **li
-**
+- Built a **linear regression model** to predict future sea level rise.
+- Used **historical climate data** for trend forecasting.
+- Visualized **scatter plots and regression lines** with **Seaborn**.
+
+📂 [Project Folder](./Sea-Level-Predictor/) | 📜 [Notebook](./Sea-Level-Predictor/sea_level_predictor.ipynb)  
+
+---
+
+## 🔧 Tech Stack  
+- **Programming Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Tools:** Jupyter Notebook, GitHub  
+
+---
+
+
